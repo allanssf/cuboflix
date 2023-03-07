@@ -339,7 +339,9 @@
   gap: 12px;
 }
 
-.modal__genre,
+.modal__genre1,
+.modal__genre2,
+.modal__genre3,
 .modal__average {
   border-radius: 8px;
   padding: 10px;
@@ -352,7 +354,9 @@
   color: #ffffff;
 }
 
-.modal__genre {
+.modal__genre1,
+.modal__genre2,
+.modal__genre3 {
   background: #fe0078;
 }
 
